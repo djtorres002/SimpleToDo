@@ -14,13 +14,6 @@ The following **required** functionality is completed:
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items are persisted** across app restarts
 
-The following **bonus** features are implemented:
-
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -32,7 +25,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This first challenge I was faced to the instalation of Android Studio and Git, which both gave me some problems a couple of hours, but finally i could beat this little challenge
 
 ## License
 
